@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: Yin-Yang Membranes
+version: 0.1.0
+date-released: 2026-10-21
+authors:
+  - family-names: Brisson
+    given-names: Jean-François
+    orcid: "https://orcid.org/0009-0000-9778-5374"
+license: AGPL-3.0-only
+repository-code: "https://github.com/sparkainlp-x/yin-yang-membranes"
+abstract: >-
+  Synthetic toy simulation (classical software, not physical
+  holography hardware). Python reference model for the Loop view of
+  Holographic Thoughts: two rings of 48 coupled phase oscillators
+  tracking conjugate traveling waves. Negative result: at the page's
+  coupling (kappa 0.45), coupling lowers joint overlap versus each
+  membrane alone and does not speed recovery of a destroyed partner.
+keywords: [phase-oscillators, coupled-oscillators, holographic-memory, negative-result, reproducible-research]

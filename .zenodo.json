@@ -1,0 +1,12 @@
+{
+  "upload_type": "software",
+  "title": "Yin-Yang Membranes",
+  "description": "Synthetic toy simulation (classical software, not physical holography hardware). Python reference model for the Loop view of Holographic Thoughts: two rings of 48 coupled phase oscillators tracking conjugate traveling waves. Negative result: at the page's coupling (kappa 0.45), coupling lowers joint overlap versus each membrane alone and does not speed recovery of a destroyed partner.",
+  "creators": [{"name": "Brisson, Jean-François", "orcid": "0009-0000-9778-5374"}],
+  "license": "AGPL-3.0-only",
+  "version": "0.1.0",
+  "keywords": ["phase-oscillators", "coupled-oscillators", "holographic-memory", "negative-result", "reproducible-research"],
+  "notes": "Synthetic toy; classical simulation with a classical negative result.",
+  "related_identifiers": [{"identifier": "https://github.com/sparkainlp-x/holographic-thoughts", "relation": "isSupplementTo", "scheme": "url"}],
+  "communities": [{"identifier": "spark-ai-nlp"}]
+}
