@@ -8,7 +8,7 @@ Two rings of 48 phase oscillators track conjugate traveling waves. Yin reads yan
 
 > Synthetic toy simulation; classical software; not physical holography hardware. "Yin" and "yang" are names for the two rings only; no philosophical, spiritual or health claim is made.
 
-## Verified (output of `python demo.py`, seeds 7 / 21 / 42)
+## Measured in this repo (output of `python demo.py`, seeds 7 / 21 / 42)
 
 Joint overlap = mean of (yin + yang)/2 over ticks 201–1200. Resurrection = ticks after destroying yang until its overlap stays above 0.6 for 5 ticks (cap 1000).
 
